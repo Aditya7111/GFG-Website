@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Aditya Bhosale",
+        "designation": "Technical Co-HEAD",
+        "photo": "/img/technical/aditya_b.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/aditya-bhosale-129858236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/adityabhosale1268",
+        "Leetcode_account":"https://leetcode.com/adityamohanbhosale123/"
+    },
+    {
+        "name": "Aditya Gaikwad",
+        "designation": "CP Team",
+        "photo": "/img/cp/aditya_g.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/aditya-gaikwad-835448255/",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/aditya_9119/",
+        "Leetcode_account":"https://leetcode.com/aditya_9119/"
+    },
+    {
+        "name": "Kshitij Patil",
+        "designation": "CP Team",
+        "photo": "/img/cp/kshitij.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/kshitij-patil-638472235/",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/kshitijpatfhvl/practice",
+        "Leetcode_account":"https://leetcode.com/Kshitij552/"
+    },
+    {
+        "name": "Suyash Shinde",
+        "designation": "CP Team",
+        "photo": "/img/cp/suyash.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/suyash-shinde-85647a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/suyashck9qo/practice",
+        "Leetcode_account":"https://leetcode.com/Eyepatch_Koala/"
+    },
+    {
+        "name": "Pranav Nebhnani",
+        "designation": "CP Team",
+        "photo": "/img/cp/pranav.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/pranav-nebhnani-00b670259",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/pnebhnt6he",
+        "Leetcode_account":"https://leetcode.com/pnebhnani24/"
+    },
+    {
+        "name": "Ravidas Gaikwad",
+        "designation": "Web Team",
+        "photo": "/img/web/ravidas.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/khairnar-atharva-2b3b55249",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/ravidasgaiksm5u",
+        "Leetcode_account":"#"
+    },
+    {
+        "name": "Abhay Gupta",
+        "designation": "Web Team",
+        "photo": "/img/web/abhay.jpg",
+        "linkedin_url": "https://www.linkedin.com/in/abhay-gupta-91951a233",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/abhaygup3pq4",
+        "Leetcode_account":"https://leetcode.com/Abhay081/"
+    },
+    {
+        "name": "Tanay Naphade",
+        "designation": "Technical Team",
+        "photo": "/img/technical/tanay.jpg",
+        "linkedin_url": "https://in.linkedin.com/in/tanay-naphade-851859297",
+        "gfg_account":"https://auth.geeksforgeeks.org/user/tanaynaphade9/",
+        "Leetcode_account":"https://leetcode.com/GOJOKUN/"
+    }
+]
